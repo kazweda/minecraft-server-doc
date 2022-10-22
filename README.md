@@ -8,3 +8,8 @@
 
 ### windows でサーバーを立てる場合
 [ファイアウォールを設定する](https://www.conoha.jp/vps/media/mine-semi/unable-to-connect/#section-02-04)
+
+- 受信の規則
+「TCP」を選択して、特定のローカルポートに25565を入力
+- 送信の規則
+「TCP」を選択して、特定のローカルポートに25565を入力
