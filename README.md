@@ -1,6 +1,12 @@
-# minecraft-server-doc
+# minecraft-server-howto
 
 マイクラのマルチサーバーを立てる練習
+
+### server for Minecraft
+[Download server for Minecraft](https://www.minecraft.net/ja-jp/download/server)
+
+### チュートリアル/サーバーのセットアップ
+[チュートリアル/サーバーのセットアップ](https://minecraft.fandom.com/ja/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
 
 ### 参考
 - [M1Macでマイクラ（Java版）のマルチサーバーを立てる方法を解説！IP固定方法まで詳しく解説！](https://game.kmmwb.com/2021/11/28/m1-server/)
